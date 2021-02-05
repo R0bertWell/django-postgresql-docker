@@ -1,0 +1,1 @@
+Learning bro, docker and postgresql with django
